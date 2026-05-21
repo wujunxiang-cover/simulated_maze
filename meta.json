@@ -6,66 +6,10 @@
   "readmeFormat": "markdown",
   "docsFormat": "markdown",
   "createdAt": "2026-05-21T10:22:07.907Z",
-  "updatedAt": "2026-05-21T10:49:58.620Z",
+  "updatedAt": "2026-05-21T11:07:47.962Z",
   "latestVersionId": 9,
   "attachments": [],
   "versions": [
-    {
-      "id": 1,
-      "savedAt": "2026-05-21T10:22:07.907Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n\n主要功能：\n\n随机生成 22×22 迷宫\n用 DFS 寻找一条路径\n用 BFS 寻找路径\n通过前驱指针回溯并显示路径\n用菜单控制生成、寻路、打印和退出",
-      "file": "v1.ts"
-    },
-    {
-      "id": 2,
-      "savedAt": "2026-05-21T10:48:20.404Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n主要功能：\n随机生成 22×22 迷宫\n用 DFS 寻找一条路径\n用 BFS 寻找路径\n通过前驱指针回溯并显示路径\n用菜单控制生成、寻路、打印和退出",
-      "file": "v2.ts"
-    },
-    {
-      "id": 3,
-      "savedAt": "2026-05-21T10:48:35.265Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n主要功能：\n随机生成 22×22 迷宫\n用 DFS 寻找一条路径\n用 BFS 寻找路径\n通过前驱指针回溯并显示路径\n用菜单控制生成、寻路、打印和退出",
-      "file": "v3.ts"
-    },
-    {
-      "id": 4,
-      "savedAt": "2026-05-21T10:49:18.667Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n可以s c",
-      "file": "v4.ts"
-    },
-    {
-      "id": 5,
-      "savedAt": "2026-05-21T10:49:24.643Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n可以生成地图并且",
-      "file": "v5.ts"
-    },
-    {
-      "id": 6,
-      "savedAt": "2026-05-21T10:49:35.756Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n可以生成地图并且寻路。",
-      "file": "v6.ts"
-    },
-    {
-      "id": 7,
-      "savedAt": "2026-05-21T10:49:39.307Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。\n可以生成地图并且寻路。",
-      "file": "v7.ts"
-    },
-    {
-      "id": 8,
-      "savedAt": "2026-05-21T10:49:56.045Z",
-      "projectName": "模拟迷宫",
-      "implementation": "这是一个 C++ 随机迷宫寻路项目。可以生成地图并且寻路。",
-      "file": "v8.ts"
-    },
     {
       "id": 9,
       "savedAt": "2026-05-21T10:49:58.620Z",
